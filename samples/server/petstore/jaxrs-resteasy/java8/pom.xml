@@ -183,7 +183,7 @@
     </repositories>
     <properties>
         <swagger-core-version>1.5.22</swagger-core-version>
-        <jackson-version>2.11.2</jackson-version>
+        <jackson-version>2.13.3</jackson-version>
         <jetty-version>9.2.9.v20150224</jetty-version>
         <resteasy-version>3.13.0.Final</resteasy-version>
         <slf4j-version>1.6.3</slf4j-version>
