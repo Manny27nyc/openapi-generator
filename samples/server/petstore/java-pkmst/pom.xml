@@ -32,7 +32,7 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-parent</artifactId>
       <version>1.5.6.RELEASE</version>
-      <relativePath />
+      <relativePath/>
       <!-- lookup parent from repository -->
    </parent>
    <repositories>
@@ -126,7 +126,7 @@
       <dependency>
          <groupId>com.netflix.hystrix</groupId>
          <artifactId>hystrix-javanica</artifactId>
-         <version>1.4.1</version>
+         <version>1.5.18</version>
       </dependency>
       <dependency>
          <groupId>org.apache.commons</groupId>
@@ -402,7 +402,7 @@
                               </goals>
                            </pluginExecutionFilter>
                            <action>
-                              <ignore />
+                              <ignore/>
                            </action>
                         </pluginExecution>
                      </pluginExecutions>
